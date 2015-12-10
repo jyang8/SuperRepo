@@ -1,6 +1,9 @@
+// Jessica Yang
+// APCS1 pd9
+// HW45 -- Come Together
+// 2015-12-09
+
 public interface Comparable {
-  
-  // returns 0 if equal to, pos if greater than, neg if less than o
+  // signature of compareTo() to be implemented
   int compareTo(Object o);
-  
 }
